@@ -1,0 +1,10 @@
+fastapi
+pydantic
+uvicorn
+pyngrok
+nest_asyncio
+typing
+pydub
+python-multipart
+pypi-json
+https://raw.githubusercontent.com/AwaleSajil/ghc/master/ghc-1.0-py3-none-any.whl
